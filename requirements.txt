@@ -1,0 +1,7 @@
+# Python 3.9.2
+# Google Chrome 92.0.4515.159
+# ChromeDriver 92.0.4515.107
+
+selenium
+urllib3
+openpyxl
